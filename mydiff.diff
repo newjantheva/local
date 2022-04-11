@@ -1,0 +1,9 @@
+diff --git a/local.txt b/remote.txt
+index f9cc457..b6fc4c6 100644
+--- a/local.txt
++++ b/remote.txt
+@@ -1 +1 @@
+-hello from local
+\ No newline at end of file
++hello
+\ No newline at end of file
